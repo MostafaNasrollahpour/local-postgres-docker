@@ -1,0 +1,27 @@
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Linux / desktop metadata
+.directory
+.Trash-*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# Editor / temporary files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
